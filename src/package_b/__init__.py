@@ -1,0 +1,1 @@
+print("Imported src/package_b package")
